@@ -24,4 +24,4 @@ O projeto conta com as tabelas:
 * **ORDEM_SERVICO** (N:N) **PECA** (via tabela associativa `ITEM_OS_PECA`)
 
 ---
-*Projeto desenvolvido por [Seu Nome Aqui]*
+*Projeto desenvolvido por Camila de Lima*
